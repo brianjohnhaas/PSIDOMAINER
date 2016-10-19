@@ -6,8 +6,6 @@ Requirements:
 -you must have the the utilities 'cdbyank' and 'cdbfasta' available in via your PATH setting.
 -you must have NCBI blast installed (including blastpgp)
  
-    (Broadies:  include /broad/tools/bin in your PATH setting!)
-
 
 Usage:
 
@@ -20,7 +18,5 @@ The above script will generate several tmp files, in addition to two primary out
     ${filename}.psiDom.FINAL_domains.pep
 
 
-
-Questions, comments, etc?   email Brian Haas bhaas@broad.mit.edu
 
 
