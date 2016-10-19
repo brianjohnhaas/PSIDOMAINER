@@ -3,8 +3,8 @@ Given a protein multi-fasta file, PsiDomainer will compute a domain structure ba
 PsiDomainer is a reimplementation of 'domainer' described by ProDom.  PsiDomainer extends the algorithm in an attempt to unify likely domain fragments.
 
 Requirements:
--you must have the the utilities 'cdbyank' and 'cdbfasta' available in via your PATH setting.
--you must have NCBI blast installed (including blastpgp)
+*  you must have the the utilities 'cdbyank' and 'cdbfasta' available in via your PATH setting.
+*  you must have NCBI blast installed (including blastpgp)
  
 
 Usage:
